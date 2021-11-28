@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 zeep
+=======
+zeep
+>>>>>>> 9e2a488879b1b8936f5ef852bbbbe704ec26f15b
 qiskit[visualization]
