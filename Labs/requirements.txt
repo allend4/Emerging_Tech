@@ -1,10 +1,6 @@
 <<<<<<< HEAD
-requirements.txt
-
-numpy
+zeep
 =======
-requirements.txt
-
-numpy
+zeep
 >>>>>>> 9e2a488879b1b8936f5ef852bbbbe704ec26f15b
-matplotlib
+qiskit[visualization]
