@@ -1,0 +1,6 @@
+zeep
+numpy
+pandas
+matplotlib
+sklearn
+qiskit[visualization]
