@@ -6,20 +6,20 @@
 
 ## Introduction
 <p>The purpose of this assessment is to ensure that you have achieved the learning outcomes of the module while also providing you with sample work to show prospective employers.In this repository you will find multiple files realted to Scikit Learn and various algorithms associated. Within the Lab folder contains daily insights into new algorithms every week.</p>
-<p>the main purpose of this project is to discuss two jupyter notebooks, <b>quantum-deutsch</b> and <b>scijit-learn</b>.</p>
+<p>The main purpose of this project is to discuss two jupyter notebooks, <b>Quantum-Deutsch</b> and <b>SciKit-Learn</b>.</p>
 
-### scijit-learn
-- Overview of the scikit-learn python library.
+### SciKit-learn
+- Overview of the Scikit-learn python library.
 - Demonstartion of three scikit-learn algorithms.
 - Enhancements, such as plots and visualisations.
 
-### quantum-deutsch
+### Quantum-Deutsch
 - Explanation of quantum computing.
 - Comparison of quantum, computing and classical computing.
 - Explanation of Deutsch’s algorithm
 
 ## Scikit-Learn Jupyter Notebook + Quantum Computing Jupyter Notebook
-You can view the notebooks in STATIC form at nbviewer in DYNAMIC form at binder.
+You can view the notebooks in STATIC form at nbviewer and in DYNAMIC form at binder.
 
 | Scikit-Learn  | Quantum Deutsch |
 | :-: | :-: |
