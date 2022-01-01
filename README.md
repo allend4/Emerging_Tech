@@ -55,5 +55,8 @@ You can view the notebooks in STATIC form at nbviewer and in DYNAMIC form at bin
 ## References
 Each notebook has its own dedicated references. But here are a few unamed that helped with the project.
 - [nbViewer Badge](https://github.com/jupyter/nbviewer)
+    * GitHub. 2022. GitHub - jupyter/nbviewer: nbconvert as a web service: Render Jupyter Notebooks as static web pages. [online] Available at: <https://github.com/jupyter/nbviewer>.
 - [Binder Badge](https://mybinder.org/)
+    * MyBinder. 2022. [online] Available at: <https://mybinder.org/>.
 - [Ian McLoughlin](https://github.com/ianmcloughlin) Huge shoutout and Acknowledgment for lectures and content.
+    * I. McLoughlin. 2021. Emerging Technologies
