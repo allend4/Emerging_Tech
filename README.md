@@ -6,20 +6,20 @@
 
 ## Introduction
 <p>The purpose of this assessment is to ensure that you have achieved the learning outcomes of the module while also providing you with sample work to show prospective employers.In this repository you will find multiple files realted to Scikit Learn and various algorithms associated. Within the Lab folder contains daily insights into new algorithms every week.</p>
-<p>the main purpose of this project is to discuss two jupyter notebooks, <b>quantum-deutsch</b> and <b>scijit-learn</b>.</p>
+<p>The main purpose of this project is to discuss two jupyter notebooks, <b>Quantum-Deutsch</b> and <b>SciKit-Learn</b>.</p>
 
-### scijit-learn
-- Overview of the scikit-learn python library.
+### SciKit-learn
+- Overview of the Scikit-learn python library.
 - Demonstartion of three scikit-learn algorithms.
 - Enhancements, such as plots and visualisations.
 
-### quantum-deutsch
+### Quantum-Deutsch
 - Explanation of quantum computing.
 - Comparison of quantum, computing and classical computing.
 - Explanation of Deutsch’s algorithm
 
 ## Scikit-Learn Jupyter Notebook + Quantum Computing Jupyter Notebook
-You can view the notebooks in STATIC form at nbviewer in DYNAMIC form at binder.
+You can view the notebooks in STATIC form at nbviewer and in DYNAMIC form at binder.
 
 | Scikit-Learn  | Quantum Deutsch |
 | :-: | :-: |
@@ -55,5 +55,8 @@ You can view the notebooks in STATIC form at nbviewer in DYNAMIC form at binder.
 ## References
 Each notebook has its own dedicated references. But here are a few unamed that helped with the project.
 - [nbViewer Badge](https://github.com/jupyter/nbviewer)
+    * GitHub. 2022. GitHub - jupyter/nbviewer: nbconvert as a web service: Render Jupyter Notebooks as static web pages. [online] Available at: <https://github.com/jupyter/nbviewer>.
 - [Binder Badge](https://mybinder.org/)
+    * MyBinder. 2022. [online] Available at: <https://mybinder.org/>.
 - [Ian McLoughlin](https://github.com/ianmcloughlin) Huge shoutout and Acknowledgment for lectures and content.
+    * I. McLoughlin. 2021. Emerging Technologies
